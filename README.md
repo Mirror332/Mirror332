@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Mirror332.
 
 <!--
 **Mirror332/Mirror332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://archlinux.org/"><img alt="Arch Linux" src="https://archlinux.org//static/logos/apple-touch-icon-114x114.343cca8f850e.png"/></a>
