@@ -1,7 +1,7 @@
 ### My name is Mirror332.
-<ul>
+
 I'm into software development and reverse engineering.
-</ul>
+
 <h4> Languages and Tools </h4>
 <a href="https://archlinux.org/"><img alt="Arch Linux" src="./images/tux.svg"/></a>
 <a href="https://vscodium.com/"><img alt="VS Codium" src="./images/vsc19.svg"/></a>
