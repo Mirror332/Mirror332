@@ -1,21 +1,11 @@
 ### My name is Mirror332.
-
-<!--
-**Mirror332/Mirror332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<ul>
 I'm into software development and reverse engineering.
+</ul>
+<h4> Languages and Tools </h4>
+<a href="https://archlinux.org/"><img alt="Arch Linux" src="./images/tux.svg"/></a>
+<a href="https://vscodium.com/"><img alt="VS Codium" src="./images/vsc19.svg"/></a>
+<a href="https://cplusplus.com/"><img alt="C++" src="./images/cpp.svg"/></a>
+<a href="https://javascript.com/"><img alt="JavaScript" src="./images/js.svg"/></a>
+<a href="https://www.python.org/"><img alt="Python" src="./images/py.svg"/></a>
 
-<a href="https://archlinux.org/"><img alt="Arch Linux" src="./images/archlinux.svg"/></a>
-<a href="https://vscodium.com/"><img alt="VS Codium" src="./www/svg/vsc19.svg"/></a>
