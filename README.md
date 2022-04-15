@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 I'm into software development and reverse engineering.
 
-<a href="https://archlinux.org/"><img alt="Arch Linux" src="./www/svg/tux.svg"/></a>
+<a href="https://archlinux.org/"><img alt="Arch Linux" src="./images/archlinux.svg"/></a>
 <a href="https://vscodium.com/"><img alt="VS Codium" src="./www/svg/vsc19.svg"/></a>
