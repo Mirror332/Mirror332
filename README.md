@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://archlinux.org/"><img alt="Arch Linux" src="https://www.raspberryitaly.com/wp-content/uploads/2015/04/Arch-linux-logo.png"/></a>
+
+I'm into software development and reverse engineering.
+
+<a href="https://archlinux.org/"><img alt="Arch Linux" src="./www/svg/tux.svg"/></a>
+<a href="https://vscodium.com/"><img alt="VS Codium" src="./www/svg/vsc19.svg"/></a>
